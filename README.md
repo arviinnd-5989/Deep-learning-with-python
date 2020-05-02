@@ -1,4 +1,4 @@
-This repository contains code sampes from the bok "Deep learning with python" by Jason Brownlee.
+This repository contains code sampes from the book "Deep learning with python" by Dr. Jason Brownlee.
 
 Thanks
 Arvind
